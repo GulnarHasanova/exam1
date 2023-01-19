@@ -1,0 +1,53 @@
+.mainImg{
+    background-image: url("https://preview.colorlib.com/theme/notary/images/hero_bg_1.jpg");
+    height: 870px;
+
+}
+.mainWri{
+    
+    width: 445px;
+    color: white;
+   margin-left: 419px;
+   padding-top: 160px;
+}
+.w1{
+    font-size: 50px;
+}
+.w2{
+    font-size: 16px;
+}
+
+.center-card{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.sekil{
+    width: 40px;
+    height: 40px;
+}
+
+.col-3{
+    margin-left: 40px;
+    margin-top: 40px;
+    width: 350px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+}
+
+
+.row{
+    justify-content: center;
+}
+
+.btn-x{
+    position: absolute;
+    margin-top: -4%;
+    margin-left: -2%;
+
+}
+
+.form-control{
+   
+}

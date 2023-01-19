@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(254,226,179);
+    align-items: center;
+}
+
+
+strong{
+    font-size: 1.7rem;
+}
+
+a{
+    text-decoration: none !important;
+   margin-left: 20px;
+   color: rgba(0, 0, 0, 0.7) !important;
+   cursor: pointer;
+   font-weight: 300;
+    font-size: 1rem;
+}
